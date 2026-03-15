@@ -1,2 +1,2 @@
-# High-Performance-AI-Benchmarking
-Scalable benchmarking framework for Deep Learning workloads on HPC clusters.
+# High Performance AI Benchmarking
+Professional suite for hardware-aware AI performance profiling on CUDA clusters.
